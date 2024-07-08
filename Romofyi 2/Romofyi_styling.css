@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+    text-decoration: none;
+}
+.top_nav{
+    background-color: #ECF3FC;
+    height: 40px;
+    width: 100%;
+    padding: 8px;
+}
+#number{
+    color: #183661;
+    margin-left: 10px;
+    
+}
+.call_icon{
+    height: 20px;
+    margin-top: 2px;
+}
+.d-flex{
+    cursor: pointer;
+    
+}
+.d-flex:hover{
+    text-decoration: underline;
+    color: #183661;
+}
